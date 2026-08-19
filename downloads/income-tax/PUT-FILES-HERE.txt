@@ -1,0 +1,4 @@
+Place these files in this folder when ready:
+- itr-document-checklist.pdf
+- itr-filing-guide.pdf
+The Downloads page is already linked to these filenames.

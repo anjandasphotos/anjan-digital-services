@@ -1,0 +1,4 @@
+Place these files in this folder when ready:
+- pan-document-checklist.pdf
+- pan-application-guide.pdf
+The Downloads page is already linked to these filenames.
