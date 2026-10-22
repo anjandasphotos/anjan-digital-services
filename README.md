@@ -20,7 +20,7 @@ Static website for GitHub Pages. Open `index.html` in a browser for a basic loca
 
 ## Important
 - Active enquiry channel: WhatsApp at `+91 7003913348` (`https://wa.me/917003913348`).
-- Public location is only `Kolkata, West Bengal, India`; no home address or map is included.
+- Public location is only `Kolkata`; no home address or map is included.
 - Phone calling is shown as “Coming Soon”.
 - The site is static. The enquiry form pre-fills a WhatsApp message and does not send data to a server.
 - Review the Privacy Policy, Terms & Conditions and service descriptions against your actual business practices before publishing.
